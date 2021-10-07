@@ -1,0 +1,31 @@
+{
+  "folders": [
+	{
+		"path": "..\\kinomonster"
+	},
+	{
+		"path": "..\\lavrik-dz-4"
+	},
+	{
+		"path": "..\\dz4-row-col"
+	},
+	{
+		"path": "."
+	},
+	{
+		"path": "..\\dz5-maket"
+	},
+	{
+		"path": "..\\Flex"
+	},
+	{
+		"path": "..\\grid"
+	},
+	{
+		"path": "..\\фрилансер по жизни"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "проект лаврик"
+  }
+}
